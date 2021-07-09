@@ -12,3 +12,16 @@ pytz==2019.1
 six==1.12.0
 SQLAlchemy==1.3.4
 Werkzeug==0.15.4
+
+
+#To make it work, actually i installed these
+
+#pip3 install Flask-Migrate
+#pip3 install Flask-Moment
+#pip3 install Flask-SQLAlchemy
+#pip3 install Flask-WTF
+#pip3 install Babel
+#pip3 install psycopg2-binary
+#pip3 install python-dateutil
+#and then pip3 install --upgrade werkzeug  
+# also i was using python 3.9

@@ -1,0 +1,20 @@
+To configure de DB:
+createdb bookshelf
+psql bookshelf
+[run setup.psql]
+[run books.psql]
+same for bookshelf_tests db
+
+Start the server:
+pg_ctl -D /usr/local/var/postgres start
+
+I run the backend as:
+export FLASK_APP=flaskr
+export FLASK_ENV=development
+export FLASK_DEBUG=true
+flak run
+
+Run the test:
+python3 test_flaskr.py
+
+
