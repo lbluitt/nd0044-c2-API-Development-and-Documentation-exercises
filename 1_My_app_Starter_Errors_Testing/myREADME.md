@@ -1,3 +1,28 @@
+Title
+Udacity Bookshelf App!
+
+
+Description:
+---------
+explains why your project is interesting
+describes your motivation to creating the project and why the user should want to engage with it
+provides clear instructions for developers who want to use or contribute to your prject
+------
+
+This app is meant to be a virtual Bookshelf app where you can manage your books. This will be the foundation app that will be used by udacity students to learn and demonstrate their abilities towards building APIs. There is a set of TODOs items across the app that the students should work on. 
+
+Getting Started
+---
+Remember, this should include any prerequisite skills or project dependencies as well as how to run and test the project.
+----
+
+
+
+
+
+
+API Reference
+
 # API Documentation Practice
 In this exercise, your task is to practice writing documentation for the bookstore app we created earlier.
 
@@ -120,3 +145,30 @@ POST /books
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+Authors
+---
+Give credit where credit is due! If you used any open source technologies, cite those here as well.
+---
+
+
+
+
+
+
+
+Acknowledgements
+
+---
+If anyone helped you on this learning journey or in developing this project specifically, give them a shout here... and let them know in real life.
+---
